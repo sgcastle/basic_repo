@@ -1,0 +1,11 @@
+Created GitHub repository
+cd to Basic Repo
+linked the two
+touch index.html styles.css README.txt
+touch .gitignore
+atom open .gitignore (added *.DS_Store to it)
+git add .
+git commit -m (first commit added/updates .gitignore)
+git fetch origin master
+git merge master
+git push origin master
